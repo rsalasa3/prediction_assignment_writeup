@@ -2,7 +2,7 @@
 title: "Coursera Practical Machine Learning - Prediction Assignment Writeup"
 author: "Ricardo Aguiar"
 date: "2 de outubro de 2016"
-output: html_document
+output: md_document
 ---
 #Instructions#
 
